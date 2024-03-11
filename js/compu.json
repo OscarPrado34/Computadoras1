@@ -1,0 +1,163 @@
+[
+    {
+        "id": "laptos-01",
+        "titulo": "ASUS TUF Gaming F15",
+        "imagen":   " ./img/laptos/0.1.png ",
+        "categoria": {
+            "nombre": "Laptos",
+            "id": "laptos"
+        },
+        "precio": 1600
+    },
+    {
+        "id": "laptos-02",
+        "titulo": "Vivobook Pro 15 OLED (K3500, 11a Gen Intel) ",
+        "imagen": "./img/laptos/0.2.png ",
+        "categoria": {
+            "nombre": "Laptos",
+            "id": "laptos"
+        },
+        "precio": 1200
+    },
+    {
+        "id": "laptos-03",
+        "titulo": "Asus ROG Zephyrus Duo 15n ",
+        "imagen": "./img/laptos/0.3.png ",
+        "categoria": {
+            "nombre": "Laptos",
+            "id": "laptos"
+        },
+        "precio": 1111
+    },
+    {
+        "id": "laptos-04",
+        "titulo": "HP GAMING 15-DK2500LA ",
+        "imagen": "./img/laptos/0.4.png ",
+        "categoria": {
+            "nombre": "Laptos",
+            "id": "laptos"
+        },
+        "precio": 2200
+    },
+   
+    {
+        "id": "laptos-05",
+        "titulo": "ACER NITRO I5 ",
+        "imagen": "./img/laptos/0.5.png ",
+        "categoria": {
+            "nombre": "Laptos",
+            "id": "laptos"
+        },
+        "precio": 1178
+    },
+    {
+        "id": "laptos-06",
+        "titulo": " MSI KATANA 15",
+        "imagen": "./img/laptos/0.6.png ",
+        "categoria": {
+            "nombre": "Laptos",
+            "id": "laptos"
+        },
+        "precio": 1020
+    },
+    {
+        "id": "laptos-07",
+        "titulo": "DELL GAMING G16 7620",
+        "imagen": "./img/laptos/0.7.png ",
+        "categoria": {
+            "nombre": "Laptos",
+            "id": "laptos"
+        },
+        "precio": 1322
+    },
+    {
+        "id": "laptos-08",
+        "titulo": " ASUS ROG STRIX G16",
+        "imagen": "./img/laptos/0.8.png ",
+        "categoria": {
+            "nombre": "Laptos",
+            "id": "laptos"
+        },
+        "precio": 1243
+    },
+    {
+        "id": "monitores-01",
+        "titulo": "LG 24GN60R-B ",
+        "imagen": "./img/monitores/0.1.png ",
+        "categoria": {
+            "nombre": "Monitores",
+            "id": "monitores"
+        },
+        "precio": 6324
+    },
+    {
+        "id": "monitores-02",
+        "titulo": "DELL GAMING G16 7620",
+        "imagen": "./img/monitores/0.2.png ",
+        "categoria": {
+            "nombre": "Monitores",
+            "id": "monitores"
+        },
+        "precio": 1200
+    },
+    {
+        "id": "monitores-03",
+        "titulo": "Monitor Gamer Asus Tuf ",
+        "imagen": "./img/monitores/0.3.png ",
+        "categoria": {
+            "nombre": "Monitores",
+            "id": "monitores"
+        },
+        "precio": 1030
+    },
+    {
+        "id": "monitores-04",
+        "titulo": "Monitor Asus Rog Swift",
+        "imagen": "./img/monitores/0.4.png ",
+        "categoria": {
+            "nombre": "Monitores",
+            "id": "monitores"
+        },
+        "precio": 2000
+    },
+    {
+        "id": "monitores-05",
+        "titulo": "Monitor Asus Proart",
+        "imagen": "./img/monitores/0.5.png ",
+        "categoria": {
+            "nombre": "Monitores",
+            "id": "monitores"
+        },
+        "precio": 2100
+    },
+    {
+        "id": "monitores-06",
+        "titulo": "Monitor Gamer Msi",
+        "imagen": "./img/monitores/0.6.png ",
+        "categoria": {
+            "nombre": "Monitores",
+            "id": "monitores"
+        },
+        "precio": 4000
+    },
+    {
+        "id": "monitores-07",
+        "titulo": "MONITOR Samsung 28'",
+        "imagen": "./img/monitores/0.7.png ",
+        "categoria": {
+            "nombre": "Monitores",
+            "id": "monitores"
+        },
+        "precio": 3500
+    },
+    {
+        "id": "monitores-08",
+        "titulo": "Monitores ViewSonic.",
+        "imagen": "./img/monitores/0.8.png ",
+        "categoria": {
+            "nombre": "Monitores",
+            "id": "monitores"
+        },
+        "precio": 1700
+    }
+]
